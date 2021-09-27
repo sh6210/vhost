@@ -16,6 +16,6 @@ The script will ask you about two things
 
 `alias vhost="/home/devnet/mine/bash/vhost.sh"`
 
-![Screenshot from 2021-09-26 18-19-38.png](/var/www/html/vhost/vhost.png)
+![Screenshot from 2021-09-26 18-19-38.png](https://raw.githubusercontent.com/sh6210/vhost/master/vhost.png)
 
 ##### Please let me know your thoughts, and PR is highly appreciated.
